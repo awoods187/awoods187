@@ -16,11 +16,16 @@ I lead product strategy for CockroachDB's application ecosystem integrations, pr
 
 *Latest posts from [andywoods.me](https://andywoods.me)*
 
+## 🤖 Current Focus
+
+Building production AI systems with LLMs, RAG architectures, and vector databases. Exploring the intersection of AI infrastructure and developer tools.
+
 ## 🚀 What I'm Building
 
-- **CockroachDB**: Leading product strategy for application ecosystem integrations (Disaster Recovery, Migrations, CDC/Streaming, Observability, Supportability), pricing & packaging, and AI product initiatives
-- **Personal Site**: Zero-JS static Astro site with hybrid blog system merging personal and company content
-- **Current Focus**: Building production AI systems with LLMs, exploring RAG architectures and vector databases
+- **AI-powered product analytics** - Using LLMs to surface insights from 10K+ monthly product signals
+- **RAG systems** - Production implementations with Claude, GPT-4, and vector search
+- **Database AI integrations** - Connecting CockroachDB with modern AI stacks
+- **CockroachDB product strategy** - Leading ecosystem integrations, pricing & packaging, and AI product initiatives
 
 ## 💼 Background
 
@@ -28,22 +33,10 @@ I'm a product leader who stays technical and in the details. With 10+ years in p
 
 ## 🛠️ Technical Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachdb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-
-**Focus Areas**: Distributed Systems • Vector Databases • LLMs & RAG • Cloud Infrastructure • Product Analytics • SQL
+**AI/ML:** Claude, GPT-4, Gemini, LangChain, RAG, Vector Databases (CockroachDB pgvector)
+**Data:** Python, SQL, PostgreSQL, CockroachDB, pandas
+**Cloud:** AWS, Azure, GCP
+**Product:** A/B testing, analytics, instrumentation, product-led growth
 
 ## 📊 Impact
 
@@ -51,6 +44,10 @@ I'm a product leader who stays technical and in the details. With 10+ years in p
 - **AI Innovation**: Led company's first AI product initiative, built production systems with GPT-4 and Claude
 - **Data-Driven Product**: Analyze 10,000+ monthly product signals to inform strategy and investment planning
 - **Strategic Partnerships**: Evaluated and managed partnerships with major cloud providers and AI platforms
+
+## 📈 Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awoods187&show_icons=true&theme=transparent&hide_border=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage)
 
 ---
 

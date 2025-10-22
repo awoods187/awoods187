@@ -1,10 +1,10 @@
 # Hi, I'm Andy Woods
 
-**Director of Product Management at Cockroach Labs** | Building at the intersection of distributed systems and AI
-
 [![Website](https://img.shields.io/badge/Website-andywoods.me-blue?style=flat&logo=google-chrome&logoColor=white)](https://andywoods.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewwoods187)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/awoods187)
+
+**Director of Product Management at Cockroach Labs** | Building at the intersection of distributed systems and AI
 
 I lead product strategy for CockroachDB's application ecosystem integrations, pricing, and AI initiatives. Over the past decade, I've scaled CockroachDB from pre-revenue to $100M+ ARR and category leadership, while maintaining hands-on technical skills through building production AI systems and analyzing thousands of product signals monthly. I'm passionate about making complex technology accessible to developers, whether it's distributed systems or generative AI.
 

@@ -1,6 +1,6 @@
 # Hi, I'm Andy Woods
 
-[![andywoods.me](https://img.shields.io/badge/andywoods.me-000000?style=flat&logo=google-chrome&logoColor=white)](https://andywoods.me)
+[![andywoods.me](https://img.shields.io/badge/andywoods.me-CC5500?style=flat&logo=astro&logoColor=white)](https://andywoods.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewscottwoods/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/awoods187)
 

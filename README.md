@@ -48,3 +48,4 @@ I'm a product leader who stays technical and in the details. With 10+ years in p
 ---
 
 *This profile is automatically updated daily with my latest blog posts via GitHub Actions.*
+

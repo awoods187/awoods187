@@ -6,8 +6,7 @@ I lead product strategy for CockroachDB's application ecosystem integrations, pr
 
 ## 📝 Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Building a Hybrid Blog System: Merging Personal and Company Content](https://andywoods.me/blog/setting-up-modern-static-site-2025/) - Oct 21, 2025<!-- BLOG-POST-LIST:END -->
 
 *Latest posts from [andywoods.me](https://andywoods.me)*
 

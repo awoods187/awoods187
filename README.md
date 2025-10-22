@@ -1,7 +1,8 @@
 # Hi, I'm Andy Woods
-[![Website](https://img.shields.io/badge/Website-andywoods.me-blue?style=flat&logo=google-chrome&logoColor=white)](https://andywoods.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewwoods187)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/awoods187)
+
+[![andywoods.me](https://img.shields.io/badge/andywoods.me-000000?style=flat&logo=google-chrome&logoColor=white)](https://andywoods.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewscottwoods/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/awoods187)
 
 **Director of Product Management at Cockroach Labs** | Building at the intersection of distributed systems and AI
 

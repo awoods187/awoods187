@@ -33,6 +33,9 @@ jobs:
           # Available variables: $title, $url, $description, $date, $newline
           template: "- [$title]($url) - $date$newline"
 
+          # Add blank line before first post for proper Markdown rendering
+          insert_new_line: true
+
           # Date format (using dateformat library syntax)
           # This will show as: "Oct 21, 2025"
           date_format: "mmm d, yyyy"

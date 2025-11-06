@@ -31,7 +31,7 @@ jobs:
 
           # Template for how each blog post appears
           # Available variables: $title, $url, $description, $date, $newline
-          template: "- [$title]($url) - $date"
+          template: "- [$title]($url) - $date$newline"
 
           # Date format (using dateformat library syntax)
           # This will show as: "Oct 21, 2025"

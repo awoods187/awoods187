@@ -11,7 +11,11 @@ I lead product strategy for CockroachDB's application ecosystem integrations, pr
 ## 📝 Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hybrid Blog System: Merging Personal and Company Content](https://andywoods.me/blog/setting-up-modern-static-site-2025/) - Oct 21, 2025
+- [How I Built My Blog: Why I Use Different AI Models for Architecture vs Implementation](https://andywoods.me/blog/how-i-built-my-blog-why-i-use-different-ai-models-for-architecture-vs-implementation/) - Oct 21, 2025
+- [Surviving Failures: Disaster Recovery with CockroachDB](https://www.cockroachlabs.com/blog/disaster-recovery-cockroachdb-surviving-failures) - Apr 9, 2025
+- [Surviving Large-Scale Failures with CockroachDB](https://www.cockroachlabs.com/blog/surviving-large-scale-failures) - Mar 27, 2025
+- [Surviving 11 Application and Database Failures with CockroachDB](https://www.cockroachlabs.com/blog/surviving-application-database-failures) - Mar 17, 2025
+- [Announcing Improved CockroachDB Cloud Pricing](https://www.cockroachlabs.com/blog/improved-cockroachdb-cloud-pricing) - Nov 1, 2024
 <!-- BLOG-POST-LIST:END -->
 
 *Latest posts from [andywoods.me](https://andywoods.me)*

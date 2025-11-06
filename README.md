@@ -38,7 +38,7 @@ I'm a product leader who stays technical and in the details. With 10+ years in p
 
 ## 🛠️ Technical Stack
 
-- **AI/ML:** Claude, GPT-4, Gemini, LangChain, RAG, Vector Databases (CockroachDB pgvector)
+- **AI/ML:** Claude, GPT-5, Gemini, LangChain, RAG, Vector Databases (CockroachDB pgvector)
 - **Data:** Python, SQL, PostgreSQL, CockroachDB, pandas
 - **Cloud:** AWS, Azure, GCP
 - **Product:** A/B testing, analytics, instrumentation, product-led growth

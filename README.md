@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewscottwoods/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/awoods187)
 
-**Director of Product Management at Cockroach Labs** | Building at the intersection of distributed systems and AI
+**Head of Product at DualEntry** | Building at the intersection of AI and FinTech
 
-I lead product strategy for CockroachDB's application ecosystem integrations, pricing, and AI initiatives. Over the past decade, I've scaled CockroachDB from pre-revenue to $100M+ ARR and category leadership, while maintaining hands-on technical skills through building production AI systems and analyzing thousands of product signals monthly. I'm passionate about making complex technology accessible to developers, whether it's distributed systems or generative AI.
+I lead product at DualEntry, the ERP built from the ground up to solve what legacy systems can't. We're the first AI-native ERP built after ChatGPT and designed for how finance teams actually work today, not retrofitted for it.strategy for CockroachDB's application ecosystem integrations, pricing, and AI initiatives. I'm also ex-product at Cockroach Labs where, I scaled CockroachDB from pre-revenue to $100M+ ARR and category leadership, while maintaining hands-on technical skills through building production AI systems and analyzing thousands of product signals monthly. 
 
 ## 📝 Recent Writing
 
@@ -23,7 +23,7 @@ I lead product strategy for CockroachDB's application ecosystem integrations, pr
 
 ## 🤖 Current Focus
 
-Building production AI systems with LLMs, RAG architectures, and vector databases. Exploring the intersection of AI infrastructure and developer tools.
+Building production AI systems with LLMs, RAG architectures, and vector databases. Exploring the intersection of AI and FinTech.
 
 ## 🚀 What I'm Building
 
@@ -34,7 +34,7 @@ Building production AI systems with LLMs, RAG architectures, and vector database
 
 ## 💼 Background
 
-I'm a product leader who stays technical and in the details. With 10+ years in product development and an MBA from Kellogg, I bridge the gap between technical complexity and business impact. My background spans distributed infrastructure, cloud service provider integrations, and AI/ML systems. I analyze product signals using SQL and Python, build prototypes to validate ideas, and evaluate strategic partnerships.
+I'm a product leader who stays technical and in the details. With 15+ years in product development and an MBA from Kellogg, I bridge the gap between technical complexity and business impact. My background spans distributed infrastructure, cloud service provider integrations, and AI/ML systems. I analyze product signals using SQL and Python, build prototypes to validate ideas, and evaluate strategic partnerships.
 
 ## 🛠️ Technical Stack
 

@@ -6,7 +6,7 @@
 
 **Head of Product at DualEntry** | Building at the intersection of AI and FinTech
 
-I lead product at DualEntry, the ERP built from the ground up to solve what legacy systems can't. We're the first AI-native ERP built after ChatGPT and designed for how finance teams actually work today, not retrofitted for it.strategy for CockroachDB's application ecosystem integrations, pricing, and AI initiatives. I'm also ex-product at Cockroach Labs where, I scaled CockroachDB from pre-revenue to $100M+ ARR and category leadership, while maintaining hands-on technical skills through building production AI systems and analyzing thousands of product signals monthly. 
+I lead product at DualEntry, the ERP built from the ground up to solve what legacy systems can’t. We’re the first AI-native ERP built after ChatGPT, designed for how finance teams actually work today rather than retrofitted for it. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent years in product at Cockroach Labs, where I helped scale CockroachDB from pre-revenue to $100M+ ARR and category leadership. Along the way I stayed hands-on, building production AI systems and analyzing thousands of product signals a month.
 
 ## 📝 Recent Writing
 
@@ -27,10 +27,9 @@ Building production AI systems with LLMs, RAG architectures, and vector database
 
 ## 🚀 What I'm Building
 
-- **AI-powered product analytics** - Using LLMs to surface insights from 10K+ monthly product signals
-- **RAG systems** - Production implementations with Claude, GPT-4, and vector search
-- **Database AI integrations** - Connecting CockroachDB with modern AI stacks
-- **CockroachDB product strategy** - Leading ecosystem integrations, pricing & packaging, and AI product initiatives
+- **AI-native ERP at DualEntry** - Leading product, design, PMM, and education for an ERP designed around how modern finance teams work
+- **AI-native product development** - Shaping how product teams plan, prototype, and ship alongside AI agents
+- **PM Prompt Patterns** - Open-source, production-tested prompt patterns for AI-native product managers ([repo](https://github.com/awoods187/PM-Prompt-Patterns))
 
 ## 💼 Background
 
@@ -38,7 +37,7 @@ I'm a product leader who stays technical and in the details. With 15+ years in p
 
 ## 🛠️ Technical Stack
 
-- **AI/ML:** Claude, GPT-5, Gemini, LangChain, RAG, Vector Databases (CockroachDB pgvector)
+- **AI/ML:** Claude, GPT, Gemini, LangChain, RAG, Vector Databases (CockroachDB pgvector)
 - **Data:** Python, SQL, PostgreSQL, CockroachDB, pandas
 - **Cloud:** AWS, Azure, GCP
 - **Product:** A/B testing, analytics, instrumentation, product-led growth
@@ -46,8 +45,8 @@ I'm a product leader who stays technical and in the details. With 15+ years in p
 ## 📊 Impact
 
 - **Revenue Growth**: Scaled CockroachDB from pre-revenue to $100M+ ARR and category leadership
-- **AI Innovation**: Led company's first AI product initiative, built production systems with GPT-4 and Claude
-- **Data-Driven Product**: Analyze 10,000+ monthly product signals to inform strategy and investment planning
+- **AI Innovation**: Led Cockroach Lab's first AI product initiative, built production systems with GPT and Claude
+- **Data-Driven Product**: Analyzed 10,000+ monthly product signals to inform strategy and investment planning
 - **Strategic Partnerships**: Evaluated and managed partnerships with major cloud providers and AI platforms
 
 ## 📈 Activity

@@ -2,11 +2,11 @@
 
 [![andywoods.me](https://img.shields.io/badge/andywoods.me-CC5500?style=flat&logo=astro&logoColor=white)](https://andywoods.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewscottwoods/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)]((https://x.com/iamandywoods))
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iamandywoods)
 
 **Head of Product at DualEntry** 
 
-I lead product at DualEntry, the ERP built from the ground up to solve what legacy systems can’t. We’re the first AI-native ERP built after ChatGPT. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent years in product at Cockroach Labs, where I helped scale CockroachDB from pre-revenue to $100M+ ARR and category leadership. Along the way I stayed hands-on and built production AI systems.
+I lead product at [DualEntry](https://www.dualentry.com/), an AI-native ERP for finance teams. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent years in product at [Cockroach Labs](https://www.cockroachlabs.com/), from pre-revenue through $100M+ ARR.
 
 ## 📝 Recent Writing
 
@@ -23,7 +23,6 @@ I lead product at DualEntry, the ERP built from the ground up to solve what lega
 
 ## 🚀 What I'm Building
 
-- I lead product, design, product marketing, and education for [DualEntry](https://www.dualentry.com/), an AI-native ERP.
 - I run docs as part of Education. [docs.dualentry.com](https://docs.dualentry.com/accountants/get-started) covers guides for accountants and controllers, the API reference, the [CLI](https://github.com/dualentry/dualentry-cli), and the MCP server, with the same permissions on every surface.
 - I maintain [PM Prompt Patterns](https://github.com/awoods187/PM-Prompt-Patterns), open-source prompt patterns for product managers working with AI.
 

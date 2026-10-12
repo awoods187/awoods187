@@ -2,11 +2,11 @@
 
 [![andywoods.me](https://img.shields.io/badge/andywoods.me-CC5500?style=flat&logo=astro&logoColor=white)](https://andywoods.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewscottwoods/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/awoods187)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)]((https://x.com/iamandywoods))
 
-**Head of Product at DualEntry** | Building at the intersection of AI and FinTech
+**Head of Product at DualEntry** 
 
-I lead product at DualEntry, the ERP built from the ground up to solve what legacy systems can’t. We’re the first AI-native ERP built after ChatGPT, designed for how finance teams actually work today rather than retrofitted for it. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent years in product at Cockroach Labs, where I helped scale CockroachDB from pre-revenue to $100M+ ARR and category leadership. Along the way I stayed hands-on, building production AI systems and analyzing thousands of product signals a month.
+I lead product at DualEntry, the ERP built from the ground up to solve what legacy systems can’t. We’re the first AI-native ERP built after ChatGPT. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent years in product at Cockroach Labs, where I helped scale CockroachDB from pre-revenue to $100M+ ARR and category leadership. Along the way I stayed hands-on and built production AI systems.
 
 ## 📝 Recent Writing
 
@@ -21,33 +21,42 @@ I lead product at DualEntry, the ERP built from the ground up to solve what lega
 
 *Latest posts from [andywoods.me](https://andywoods.me)*
 
-## 🤖 Current Focus
-
-Building production AI systems with LLMs, RAG architectures, and vector databases. Exploring the intersection of AI and FinTech.
-
 ## 🚀 What I'm Building
 
-- **AI-native ERP at DualEntry** - Leading product, design, PMM, and education for an ERP designed around how modern finance teams work
-- **AI-native product development** - Shaping how product teams plan, prototype, and ship alongside AI agents
-- **PM Prompt Patterns** - Open-source, production-tested prompt patterns for AI-native product managers ([repo](https://github.com/awoods187/PM-Prompt-Patterns))
+- I lead product, design, product marketing, and education for [DualEntry](https://www.dualentry.com/), an AI-native ERP.
+- I run docs as part of Education. [docs.dualentry.com](https://docs.dualentry.com/accountants/get-started) covers guides for accountants and controllers, the API reference, the [CLI](https://github.com/dualentry/dualentry-cli), and the MCP server, with the same permissions on every surface.
+- I maintain [PM Prompt Patterns](https://github.com/awoods187/PM-Prompt-Patterns), open-source prompt patterns for product managers working with AI.
+
+## 🤖 How I build product
+
+I run product development with agents doing the repetitive work, so PM time goes to talking with customers and making decisions. Agents gather the evidence, file it where engineering works, and draft the follow-up. People do the conversations and the judgment calls.
+
+Here's how that works when we lose a deal:
+
+1. When a deal closes lost in HubSpot, an agent reads the recorded calls in Attention, scores the loss on ICP fit, competition, buying trigger, and sales execution, and flags product gaps in Slack.
+2. I email the buyer from product and meet with anyone willing to give feedback.
+3. Agents turn that call into notes, file each gap as a Linear project tagged to the customer, and draft my thank-you.
+4. Every Monday, an agent rolls up the week's lost and stalled deals so we can see which gaps keep costing us.
+
+Each loss becomes roadmap input with the customer's own words attached, and none of it waits on someone finding time to write it up.
 
 ## 💼 Background
 
-I'm a product leader who stays technical and in the details. With 15+ years in product development and an MBA from Kellogg, I bridge the gap between technical complexity and business impact. My background spans distributed infrastructure, cloud service provider integrations, and AI/ML systems. I analyze product signals using SQL and Python, build prototypes to validate ideas, and evaluate strategic partnerships.
+I'm a product leader who stays technical and in the details. I have 15+ years in product and an MBA from Kellogg. My background spans distributed infrastructure, cloud provider integrations, and AI/ML systems. I analyze product data in SQL and Python, build prototypes to validate ideas, and evaluate strategic partnerships.
 
 ## 🛠️ Technical Stack
 
-- **AI/ML:** Claude, GPT, Gemini, LangChain, RAG, Vector Databases (CockroachDB pgvector)
+- **AI/ML:** Claude, GPT, Gemini, LangChain, MCP, RAG, Vector Databases (CockroachDB pgvector)
 - **Data:** Python, SQL, PostgreSQL, CockroachDB, pandas
 - **Cloud:** AWS, Azure, GCP
 - **Product:** A/B testing, analytics, instrumentation, product-led growth
 
-## 📊 Impact
+## 📊 At Cockroach Labs
 
-- **Revenue Growth**: Scaled CockroachDB from pre-revenue to $100M+ ARR and category leadership
-- **AI Innovation**: Led Cockroach Lab's first AI product initiative, built production systems with GPT and Claude
-- **Data-Driven Product**: Analyzed 10,000+ monthly product signals to inform strategy and investment planning
-- **Strategic Partnerships**: Evaluated and managed partnerships with major cloud providers and AI platforms
+- Helped scale [CockroachDB](https://www.cockroachlabs.com/) from pre-revenue to $100M+ ARR.
+- Led Cockroach Labs' first AI product initiative and built production systems with GPT and Claude.
+- Analyzed 10,000+ product signals a month to inform strategy and investment planning.
+- Evaluated and managed partnerships with major cloud providers and AI platforms.
 
 ## 📈 Activity
 

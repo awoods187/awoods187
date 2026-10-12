@@ -11,11 +11,11 @@ I lead product at [DualEntry](https://www.dualentry.com/), an AI-native ERP for 
 ## 📝 Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Built So a Finance Team of Two Can Win](https://www.dualentry.com/blog/built-so-a-finance-team-of-two-can-win) - Sep 2, 2026
 - [The Architect-Builder Pattern: A Production Workflow for AI Development](https://andywoods.me/blog/the-architect-builder-pattern/) - Nov 10, 2025
 - [How I Built My Blog: Why I Use Different AI Models for Architecture vs Implementation](https://andywoods.me/blog/how-i-built-my-blog-why-i-use-different-ai-models-for-architecture-vs-implementation/) - Oct 21, 2025
 - [Surviving Failures: Disaster Recovery with CockroachDB](https://www.cockroachlabs.com/blog/disaster-recovery-cockroachdb-surviving-failures) - Apr 9, 2025
 - [Surviving Large-Scale Failures with CockroachDB](https://www.cockroachlabs.com/blog/surviving-large-scale-failures) - Mar 27, 2025
-- [Surviving 11 Application and Database Failures with CockroachDB](https://www.cockroachlabs.com/blog/surviving-application-database-failures) - Mar 17, 2025
 
 <!-- BLOG-POST-LIST:END -->
 

@@ -6,7 +6,7 @@
 
 **Head of Product at DualEntry** 
 
-I lead product at [DualEntry](https://www.dualentry.com/), an AI-native ERP for finance teams. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent years in product at [Cockroach Labs](https://www.cockroachlabs.com/), from pre-revenue through $100M+ ARR.
+I lead product at [DualEntry](https://www.dualentry.com/), an AI-native ERP for finance teams. I run Product Management, Design, Product Marketing, and Education. Before DualEntry, I spent 8 years in product at [Cockroach Labs](https://www.cockroachlabs.com/), from pre-revenue through $100M+ ARR.
 
 ## 📝 Recent Writing
 
